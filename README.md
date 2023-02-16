@@ -2,9 +2,9 @@
 
 The investment data are statistically analysed to determine the distribution of variables and their relationships. For the purpose of determining how the other factors affect the target variable,  multi linear regression analysis is used. Jupyternotebook and r studio are used to conduct the analysis.
 
-The variables of the dataset indicates,
+### The variables of the dataset indicates,
 
-#### MktPrice : The share price [in pence] on a particular date
+######## MktPrice : The share price [in pence] on a particular date
 #### ToMktCap : Total market capitalisation (i.e. total number of shares x shareprice) [in £million]
 #### DivYield : Dividend yield (i.e. cash dividend/share price) [in %]
 #### PERatio : Price Earnings ratio (i.e. price earnings / EPS approx)
